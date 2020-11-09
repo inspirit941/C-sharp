@@ -1,0 +1,11 @@
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/bin/Debug/netcoreapp3.1/HelloCsWorld.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/bin/Debug/netcoreapp3.1/HelloCsWorld.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/bin/Debug/netcoreapp3.1/HelloCsWorld.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/bin/Debug/netcoreapp3.1/HelloCsWorld.dll
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/bin/Debug/netcoreapp3.1/HelloCsWorld.pdb
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/obj/Debug/netcoreapp3.1/HelloCsWorld.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/obj/Debug/netcoreapp3.1/HelloCsWorld.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/obj/Debug/netcoreapp3.1/HelloCsWorld.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/obj/Debug/netcoreapp3.1/HelloCsWorld.dll
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/obj/Debug/netcoreapp3.1/HelloCsWorld.pdb
+/Users/inspirit941/Projects/HelloCsWorld/HelloCsWorld/obj/Debug/netcoreapp3.1/HelloCsWorld.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/bin/Debug/netcoreapp3.1/ch2_operator.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/bin/Debug/netcoreapp3.1/ch2_operator.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/bin/Debug/netcoreapp3.1/ch2_operator.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/bin/Debug/netcoreapp3.1/ch2_operator.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/bin/Debug/netcoreapp3.1/ch2_operator.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/obj/Debug/netcoreapp3.1/ch2_operator.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/obj/Debug/netcoreapp3.1/ch2_operator.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/obj/Debug/netcoreapp3.1/ch2_operator.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/obj/Debug/netcoreapp3.1/ch2_operator.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/obj/Debug/netcoreapp3.1/ch2_operator.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch2_operator/obj/Debug/netcoreapp3.1/ch2_operator.genruntimeconfig.cache
