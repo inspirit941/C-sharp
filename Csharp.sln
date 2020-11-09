@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch2_operator", "ch2_operato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch1_HelloCsWorld", "ch1_HelloCsWorld\ch1_HelloCsWorld.csproj", "{C9D7C980-472D-4119-80F0-4B8EA3DA98D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch3_for_if_while", "ch3_for_if_while\ch3_for_if_while.csproj", "{E631C50B-E240-4A42-AD49-0994059A1EF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{C9D7C980-472D-4119-80F0-4B8EA3DA98D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D7C980-472D-4119-80F0-4B8EA3DA98D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D7C980-472D-4119-80F0-4B8EA3DA98D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E631C50B-E240-4A42-AD49-0994059A1EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E631C50B-E240-4A42-AD49-0994059A1EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E631C50B-E240-4A42-AD49-0994059A1EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E631C50B-E240-4A42-AD49-0994059A1EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
