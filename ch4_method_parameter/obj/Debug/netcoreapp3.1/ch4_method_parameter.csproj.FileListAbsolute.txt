@@ -1,0 +1,12 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/bin/Debug/netcoreapp3.1/ch4_method_parameter.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/bin/Debug/netcoreapp3.1/ch4_method_parameter.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/bin/Debug/netcoreapp3.1/ch4_method_parameter.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/bin/Debug/netcoreapp3.1/ch4_method_parameter.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/bin/Debug/netcoreapp3.1/ch4_method_parameter.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.csprojAssemblyReference.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch4_method_parameter/obj/Debug/netcoreapp3.1/ch4_method_parameter.genruntimeconfig.cache
