@@ -1,0 +1,11 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/bin/Debug/netcoreapp3.1/ch8_indexer_out.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/bin/Debug/netcoreapp3.1/ch8_indexer_out.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/bin/Debug/netcoreapp3.1/ch8_indexer_out.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/bin/Debug/netcoreapp3.1/ch8_indexer_out.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/bin/Debug/netcoreapp3.1/ch8_indexer_out.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/obj/Debug/netcoreapp3.1/ch8_indexer_out.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/obj/Debug/netcoreapp3.1/ch8_indexer_out.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/obj/Debug/netcoreapp3.1/ch8_indexer_out.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/obj/Debug/netcoreapp3.1/ch8_indexer_out.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/obj/Debug/netcoreapp3.1/ch8_indexer_out.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch8_indexer_out/obj/Debug/netcoreapp3.1/ch8_indexer_out.genruntimeconfig.cache
