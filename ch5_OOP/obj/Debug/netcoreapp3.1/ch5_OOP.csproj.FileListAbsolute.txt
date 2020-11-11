@@ -1,0 +1,12 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/bin/Debug/netcoreapp3.1/ch5_OOP.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/bin/Debug/netcoreapp3.1/ch5_OOP.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/bin/Debug/netcoreapp3.1/ch5_OOP.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/bin/Debug/netcoreapp3.1/ch5_OOP.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/bin/Debug/netcoreapp3.1/ch5_OOP.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.csprojAssemblyReference.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch5_OOP/obj/Debug/netcoreapp3.1/ch5_OOP.genruntimeconfig.cache
