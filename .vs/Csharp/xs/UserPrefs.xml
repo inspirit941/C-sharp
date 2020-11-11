@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{89D4B144-B4EA-4A67-AF8C-719CFB4B6CE2}|Default">
-  <MonoDevelop.Ide.ItemProperties.ch5__OOP FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ch2__operator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ch5_OOP/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ch6_accessModifier_abstactClass/Program.cs">
     <Files>
       <File FileName="ch2_operator/Program.cs" Line="39" Column="1" />
       <File FileName="ch1_HelloCsWorld/Program.cs" Line="12" Column="19" />
       <File FileName="ch3_for_if_while/Program.cs" Line="11" Column="1" />
       <File FileName="ch4_method_parameter/Program.cs" Line="69" Column="1" />
-      <File FileName="ch5_OOP/Program.cs" Line="9" Column="13" />
+      <File FileName="ch5_OOP/Program.cs" Line="106" Column="1" />
+      <File FileName="ch6_accessModifier_abstactClass/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Csharp" expanded="True">
             <Node name="ch4_method_parameter" expanded="True" />
-            <Node name="ch5_OOP" expanded="True">
+            <Node name="ch5_OOP" expanded="True" />
+            <Node name="ch6_accessModifier_abstactClass" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -35,4 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ch6__accessModifier__abstactClass FirstBuild="True" />
 </Properties>
