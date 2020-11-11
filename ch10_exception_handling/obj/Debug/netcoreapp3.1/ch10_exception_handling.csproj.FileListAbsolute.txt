@@ -1,0 +1,12 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/bin/Debug/netcoreapp3.1/ch10_exception_handling.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/bin/Debug/netcoreapp3.1/ch10_exception_handling.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/bin/Debug/netcoreapp3.1/ch10_exception_handling.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/bin/Debug/netcoreapp3.1/ch10_exception_handling.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/bin/Debug/netcoreapp3.1/ch10_exception_handling.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.csprojAssemblyReference.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch10_exception_handling/obj/Debug/netcoreapp3.1/ch10_exception_handling.genruntimeconfig.cache

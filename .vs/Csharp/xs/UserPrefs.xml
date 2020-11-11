@@ -1,20 +1,15 @@
 ﻿<Properties StartupConfiguration="{89D4B144-B4EA-4A67-AF8C-719CFB4B6CE2}|Default">
   <MonoDevelop.Ide.ItemProperties.ch2__operator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ch9_generic/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ch10_exception_handling/Program.cs">
     <Files>
-      <File FileName="ch9_generic/Program.cs" Line="1" Column="1" />
+      <File FileName="ch9_generic/Program.cs" Line="56" Column="23" />
+      <File FileName="ch10_exception_handling/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Csharp" expanded="True">
-            <Node name="ch2_operator" expanded="True" />
-            <Node name="ch4_method_parameter" expanded="True" />
-            <Node name="ch5_OOP" expanded="True" />
-            <Node name="ch6_accessModifier_abstactClass" expanded="True" />
-            <Node name="ch7_property_array_collection" expanded="True" />
-            <Node name="ch8_indexer_out" expanded="True" />
-            <Node name="ch9_generic" expanded="True">
+            <Node name="ch10_exception_handling" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -25,11 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ch9__generic FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>HelloCsWorld/ch1_HelloCsWorld.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.ch10__exception__handling FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ch3__for__if__while FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
