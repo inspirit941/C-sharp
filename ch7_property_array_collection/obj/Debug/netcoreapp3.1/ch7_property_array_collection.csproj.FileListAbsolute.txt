@@ -1,0 +1,12 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/bin/Debug/netcoreapp3.1/ch7_property_array_collection.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/bin/Debug/netcoreapp3.1/ch7_property_array_collection.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/bin/Debug/netcoreapp3.1/ch7_property_array_collection.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/bin/Debug/netcoreapp3.1/ch7_property_array_collection.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/bin/Debug/netcoreapp3.1/ch7_property_array_collection.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.csprojAssemblyReference.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch7_property_array_collection/obj/Debug/netcoreapp3.1/ch7_property_array_collection.genruntimeconfig.cache

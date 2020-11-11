@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch5_OOP", "ch5_OOP\ch5_OOP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch6_accessModifier_abstactClass", "ch6_accessModifier_abstactClass\ch6_accessModifier_abstactClass.csproj", "{9D2E6A3C-1034-4497-875B-EF623E850499}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch7_property_array_collection", "ch7_property_array_collection\ch7_property_array_collection.csproj", "{58898809-DF5C-4781-82FA-966A99642F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,5 +45,9 @@ Global
 		{9D2E6A3C-1034-4497-875B-EF623E850499}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D2E6A3C-1034-4497-875B-EF623E850499}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D2E6A3C-1034-4497-875B-EF623E850499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58898809-DF5C-4781-82FA-966A99642F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58898809-DF5C-4781-82FA-966A99642F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58898809-DF5C-4781-82FA-966A99642F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58898809-DF5C-4781-82FA-966A99642F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
