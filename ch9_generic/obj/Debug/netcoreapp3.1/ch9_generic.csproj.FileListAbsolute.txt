@@ -1,0 +1,12 @@
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/bin/Debug/netcoreapp3.1/ch9_generic.deps.json
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/bin/Debug/netcoreapp3.1/ch9_generic.runtimeconfig.json
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/bin/Debug/netcoreapp3.1/ch9_generic.runtimeconfig.dev.json
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/bin/Debug/netcoreapp3.1/ch9_generic.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/bin/Debug/netcoreapp3.1/ch9_generic.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.csprojAssemblyReference.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.AssemblyInfoInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.AssemblyInfo.cs
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.csproj.CoreCompileInputs.cache
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.dll
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.pdb
+/Users/inspirit941/Projects/HelloCsWorld/ch9_generic/obj/Debug/netcoreapp3.1/ch9_generic.genruntimeconfig.cache
